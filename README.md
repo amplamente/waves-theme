@@ -5,7 +5,7 @@ Thank you for bought my theme!
 > Installation:
 
     1. Open arquive in .txt or .html.
-    2. Copy all and paste in the html editor of Tumblr (https://www.tumblr.com/dashboard).
+    2. Copy all and paste in the html editor of Tumblr (https://www.tumblr.com/customize).
     3. Finish!
 
 > Any problem send email to:
