@@ -1,6 +1,6 @@
 # waves-theme
 
-Thank you for bought my theme! 
+Thank you for use my theme! 
 
 > Installation:
 
